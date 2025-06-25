@@ -139,17 +139,7 @@ Operations like `CREATE TABLE` are **privileged** and only allowed on the **mast
 - 🧬 **Go (Golang)** – Main programming language for logic and HTTP handling.
 - 🌐 **HTTP** – Communication between nodes and external clients.
 
----
 
-## 👨‍💻 Authors
-
-- Pavly Samuel
-- John Ashraf
-- Ahmed Aziz
-- Abdelrahman Ayman
-- Abdelrahman Abdelhameed
-
----
 
 ## ❤️ Acknowledgments
 
